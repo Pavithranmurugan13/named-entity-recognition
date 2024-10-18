@@ -154,3 +154,4 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ![Screenshot 2024-10-18 113215](https://github.com/user-attachments/assets/e7c2f600-31e3-4d6e-8661-227088dae2cf)
 
 ## RESULT
+Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
