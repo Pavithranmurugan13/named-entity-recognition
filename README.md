@@ -147,6 +147,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ![Screenshot 2024-10-18 113227](https://github.com/user-attachments/assets/648bcf33-715e-44bb-8385-48ae576c5eda)
 
+![Screenshot 2024-10-18 113239](https://github.com/user-attachments/assets/2aa77b1c-9b8b-4194-a440-3eea1cd04737)
+
 ### Sample Text Prediction
 
 ![Screenshot 2024-10-18 113215](https://github.com/user-attachments/assets/e7c2f600-31e3-4d6e-8661-227088dae2cf)
